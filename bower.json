@@ -1,0 +1,21 @@
+{
+  "name": "inkmail",
+  "version": "0.0.1",
+  "authors": [
+    "cipher <gmgateway@gmail.com>"
+  ],
+  "description": "Responsive email templates w/ Ink and Browser-Sync.",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ink": "git@github.com:zurb/ink.git#~1.0.5"
+  }
+}

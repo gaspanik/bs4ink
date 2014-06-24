@@ -1,0 +1,16 @@
+{
+  "name": "inkmail",
+  "version": "0.0.1",
+  "description": "Responsive email templates w/ Ink and Browser-Sync.",
+  "main": "index.html",
+  "scripts": {
+    "start": "browser-sync start --server --config ./bs-config.js",
+    "postinstall": "bower install && cp bower/ink/css/* .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masaaki Komori",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "*"
+  }
+}
