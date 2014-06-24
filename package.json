@@ -1,7 +1,7 @@
 {
   "name": "inkmail",
   "version": "0.0.1",
-  "description": "Responsive email templates w/ Ink and Browser-Sync.",
+  "description": "Responsive email starter kit w/ Ink and Browser-Sync.",
   "main": "index.html",
   "scripts": {
     "start": "browser-sync start --server --config ./bs-config.js",

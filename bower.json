@@ -4,7 +4,7 @@
   "authors": [
     "cipher <gmgateway@gmail.com>"
   ],
-  "description": "Responsive email templates w/ Ink and Browser-Sync.",
+  "description": "Responsive email starter kit w/ Ink and Browser-Sync.",
   "main": "index.html",
   "license": "MIT",
   "ignore": [

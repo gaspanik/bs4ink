@@ -1,6 +1,6 @@
 # inkmail
 
-Responsive email templates w/ [Ink](http://zurb.com/ink/) and [Browser-Sync](http://browsersync.io/).
+Responsive email starter kit w/ [Ink](http://zurb.com/ink/) and [Browser-Sync](http://browsersync.io/).
 
 ## Required
 
